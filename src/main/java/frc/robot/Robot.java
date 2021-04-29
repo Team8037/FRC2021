@@ -35,7 +35,7 @@ public class Robot extends TimedRobot {
   public static WheelOFortune wheelOFortune = new WheelOFortune();
   public static Shooter shooter = new Shooter();
   public static PullUp pullUp = new PullUp();
-  public static DriveTrain driveTrain2 = new DriveTrain();
+
 
   public static OI m_oi;
 
